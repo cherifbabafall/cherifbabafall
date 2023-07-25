@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cherif
-- 🌱 I’m currently learning React/Flutter
-- 💞️ I’m currently working with Angular/Express/Loopback
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m currently working with Angular/Spring-boot
 - 📫 How to reach me : babacherif7@gmail.com
 
 <!---
